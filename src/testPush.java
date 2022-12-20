@@ -8,5 +8,7 @@ public class testPush {
         PrintWriter pw = new PrintWriter(new FileWriter("src/test.txt", false));
         pw.println("This is the text file");
         pw.close();
+
+        System.out.println("Hi world");
     }
 }
