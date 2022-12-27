@@ -10,5 +10,7 @@ public class testPush {
         pw.close();
 
         System.out.println("Hi world");
+
+        System.out.println("Nice to meet you");
     }
 }
